@@ -1,0 +1,14 @@
+nav{
+    background-color: $color_principal;
+    
+    grid-area: header;
+    animation-name: cascade;
+    animation-duration: 0.8s;
+    animation-timing-function: ease;
+    ul{
+        list-style-type: none;
+    }
+}
+footer{
+    background-color: $color_principal;   
+}
