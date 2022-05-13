@@ -5,6 +5,10 @@ nav{
     animation-name: cascade;
     animation-duration: 0.8s;
     animation-timing-function: ease;
+    .imagenNav{
+        width: 50px;
+        height: 50px;
+    }
     ul{
         list-style-type: none;
     }
